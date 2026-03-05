@@ -19,15 +19,15 @@ Projects focused on **fundamental web development concepts using HTML, CSS, and 
 
 | Sr | Project | Tech Stack | Key Concepts Learned | Live | Code |
 |----|--------|------------|---------------------|------|------|
-| 1 | Recipes | HTML | Basic HTML structure, links, images, Git workflow | Live | Code |
-| 2 | Landing Page | HTML, CSS | Flexbox layout, responsive design | Live | Code |
-| 3 | Rock Paper Scissors | JavaScript | Game logic and control flow | Live | Code |
-| 4 | Etch-a-Sketch | HTML, CSS, JS | DOM manipulation, event listeners | Live | Code |
-| 5 | Calculator | HTML, CSS, JS | Complex DOM manipulation and UI logic | Live | Code |
-| 6 | Sign-up Form | HTML, CSS | Forms, validation, form styling | Live | Code |
-| 7 | Admin Dashboard | HTML, CSS | CSS Grid layout, dashboard UI design | Live | Code |
-| 8 | Library | HTML, CSS, JS | Objects, constructors, DOM rendering | Live | Code |
-| 9 | Tic Tac Toe | HTML, CSS, JS | Module pattern, game state management | Live | Code |
+| 1 | Recipes | HTML | Basic HTML structure, links, images, Git workflow | [Live](https://avishkar1234.github.io/odin-recipes/) | [Code](https://github.com/Avishkar1234/odin-recipes) |
+| 2 | Landing Page | HTML, CSS | Flexbox layout, responsive design | [Live](https://avishkar1234.github.io/whales-landing-page/) | [Code](https://github.com/Avishkar1234/whales-landing-page) |
+| 3 | Rock Paper Scissors | JavaScript | Game logic and control flow | [Live](https://avishkar1234.github.io/ODIN-ROCK-PAPER-SCISSORTS/) | [Code](https://github.com/Avishkar1234/ODIN-ROCK-PAPER-SCISSORTS) |
+| 4 | Etch-a-Sketch | HTML, CSS, JS | DOM manipulation, event listeners | [Live](https://avishkar1234.github.io/ODIN-ETCH-A-SHETCH/) | [Code](https://github.com/Avishkar1234/ODIN-ETCH-A-SHETCH) |
+| 5 | Calculator | HTML, CSS, JS | Complex DOM manipulation and UI logic | [Live](https://avishkar1234.github.io/ODIN-CALCULATOR/) | [Code](https://github.com/Avishkar1234/ODIN-CALCULATOR) |
+| 6 | Sign-up Form | HTML, CSS | Forms, validation, form styling | [Live](https://avishkar1234.github.io/ODIN-FORM/) | [Code](https://github.com/Avishkar1234/ODIN-FORM) |
+| 7 | Admin Dashboard | HTML, CSS | CSS Grid layout, dashboard UI design | [Live](https://avishkar1234.github.io/ODIN-DASHBOARD/) | [Code](https://github.com/Avishkar1234/ODIN-DASHBOARD) |
+| 8 | Library | HTML, CSS, JS | Objects, constructors, DOM rendering | [Live](https://avishkar1234.github.io/ODIN-LIBRARY/) | [Code](https://github.com/Avishkar1234/ODIN-LIBRARY) |
+| 9 | Tic Tac Toe | HTML, CSS, JS | Module pattern, game state management | [Live](https://avishkar1234.github.io/ODIN-TIC-TAC-TOE/) | [Code](https://github.com/Avishkar1234/ODIN-TIC-TAC-TOE) |
 
 ---
 
