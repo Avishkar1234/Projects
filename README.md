@@ -57,10 +57,10 @@ Large projects combining **frontend, backend, databases, authentication, and dep
 
 | Sr | Project       | Tech Stack               | Key Concepts Learned                                     | Live | Code                                                                                           |
 | -- | ------------- | ------------------------ | -------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------- |
-| 1  | Netflix Clone | React, Node, API         | Full-stack architecture, UI replication, API integration | —    | [https://github.com/Avishkar1234/NETFLIX-CLONE](https://github.com/Avishkar1234/NETFLIX-CLONE) |
-| 2  | Twitter Clone | React, Node, Express, DB | Social feed logic, auth, CRUD systems                    | —    | [https://github.com/Avishkar1234/TWITTER-CLONE](https://github.com/Avishkar1234/TWITTER-CLONE) |
-| 3  | DentWise      | Full Stack (MERN-style)  | Real-world app structure, database modeling              | —    | [https://github.com/Avishkar1234/DENTWISE](https://github.com/Avishkar1234/DENTWISE)           |
-| 4  | Code Click    | Full Stack               | Authentication, routing, backend integration             | —    | [https://github.com/Avishkar1234/CODE-CLICK](https://github.com/Avishkar1234/CODE-CLICK)       |
+| 1  | Netflix Clone | React, Node, API         | Full-stack architecture, UI replication, API integration | https://netflix-clone-g09r.onrender.com | [https://github.com/Avishkar1234/NETFLIX-CLONE](https://github.com/Avishkar1234/NETFLIX-CLONE) |
+| 2  | Twitter Clone | React, Node, Express, DB | Social feed logic, auth, CRUD systems                    | https://twitter-clone-rm7s.onrender.com | [https://github.com/Avishkar1234/TWITTER-CLONE](https://github.com/Avishkar1234/TWITTER-CLONE) |
+| 3  | DentWise      | Full Stack (MERN-style)  | Real-world app structure, database modeling              | https://dentwise-jade.vercel.app/ | [https://github.com/Avishkar1234/DENTWISE](https://github.com/Avishkar1234/DENTWISE)           |
+| 4  | Code Click    | Full Stack               | Authentication, routing, backend integration             | https://code-click-five.vercel.app/ | [https://github.com/Avishkar1234/CODE-CLICK](https://github.com/Avishkar1234/CODE-CLICK)       |
 
 
 ---
