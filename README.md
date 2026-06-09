@@ -35,7 +35,19 @@ Projects focused on **fundamental web development concepts using HTML, CSS, and 
 
 Projects created to **learn specific technologies or tools** such as APIs, Node.js, databases, testing frameworks, and build tools.
 
-*(Projects will be listed here)*
+| Sr | Project            | Tech Stack                   | Key Concepts Learned                             | Live | Code                                                                                                                     |
+| -- | ------------------ | ---------------------------- | ------------------------------------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1  | Blog API           | Node.js, Express, PostgreSQL | REST APIs, routing, controllers, database design | —    | [https://github.com/Avishkar1234/ODIN-BLOG-API](https://github.com/Avishkar1234/ODIN-BLOG-API)                           |
+| 2  | File Uploader      | Node.js, Prisma, Express     | File handling, middleware, database integration  | —    | [https://github.com/Avishkar1234/ODIN-FILE-UPLOADER](https://github.com/Avishkar1234/ODIN-FILE-UPLOADER)                 |
+| 3  | Members Only       | Node.js, Express, Auth       | Authentication, sessions, access control         | —    | [https://github.com/Avishkar1234/ODIN-MEMBERS-ONLY](https://github.com/Avishkar1234/ODIN-MEMBERS-ONLY)                   |
+| 4  | Inventory App      | Node.js, Express, PostgreSQL | CRUD operations, relational DB design            | —    | [https://github.com/Avishkar1234/ODIN-INVENTORY-APPLICATION](https://github.com/Avishkar1234/ODIN-INVENTORY-APPLICATION) |
+| 5  | Todo List          | Node.js, Express             | MVC pattern, CRUD, database logic                | —    | [https://github.com/Avishkar1234/ODIN-TODO-LIST](https://github.com/Avishkar1234/ODIN-TODO-LIST)                         |
+| 6  | Mini Message Board | Node.js, Express, EJS        | Server-side rendering, MVC structure             | —    | [https://github.com/Avishkar1234/ODIN-MINI-MESSAGE-BOARD](https://github.com/Avishkar1234/ODIN-MINI-MESSAGE-BOARD)       |
+| 7  | Weather App        | JavaScript, API              | Fetch API, async/await, external APIs            | —    | [https://github.com/Avishkar1234/ODIN-WEATHER-APP](https://github.com/Avishkar1234/ODIN-WEATHER-APP)                     |
+| 8  | Shopping Cart      | React                        | State management, component architecture         | —    | [https://github.com/Avishkar1234/ODIN-SHOPPING-CART](https://github.com/Avishkar1234/ODIN-SHOPPING-CART)                 |
+| 9  | Memory Card        | React                        | Hooks, state, effects, UI logic                  | —    | [https://github.com/Avishkar1234/ODIN-MEMORY-CARD](https://github.com/Avishkar1234/ODIN-MEMORY-CARD)                     |
+| 10 | CV App             | React                        | Component composition, props, forms              | —    | [https://github.com/Avishkar1234/ODIN-CV-APP](https://github.com/Avishkar1234/ODIN-CV-APP)                               |
+
 
 ---
 
