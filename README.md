@@ -60,7 +60,7 @@ Large projects combining **frontend, backend, databases, authentication, and dep
 | 1  | Netflix Clone | React, Node, API         | Full-stack architecture, UI replication, API integration | [Live](https://netflix-clone-g09r.onrender.com) | [Code](https://github.com/Avishkar1234/NETFLIX-CLONE) |
 | 2  | Twitter Clone | React, Node, Express, DB | Social feed logic, auth, CRUD systems                    | [Live](https://twitter-clone-rm7s.onrender.com) | [Code](https://github.com/Avishkar1234/TWITTER-CLONE) |
 | 3  | DentWise      | Full Stack (MERN-style)  | Real-world app structure, database modeling              | [Live](https://dentwise-jade.vercel.app/) | [Code](https://github.com/Avishkar1234/DENTWISE)           |
-| 4  | Code Click    | Full Stack               | Authentication, routing, backend integration             | [Live]https://code-click-five.vercel.app/ | [Code](https://github.com/Avishkar1234/CODE-CLICK)       |
+| 4  | Code Click    | Full Stack               | Authentication, routing, backend integration             | [Live](https://code-click-five.vercel.app/ | [Code](https://github.com/Avishkar1234/CODE-CLICK)       |
 
 
 ---
