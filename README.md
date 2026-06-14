@@ -37,7 +37,7 @@ Projects created to **learn specific technologies or tools** such as APIs, Node.
 
 | Sr | Project            | Tech Stack                   | Key Concepts Learned                             | Live | Code                                                                                                                     |
 | -- | ------------------ | ---------------------------- | ------------------------------------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1  | Blog API           | Node.js, Express, PostgreSQL | REST APIs, routing, controllers, database design | —    | [Code](https://github.com/Avishkar1234/ODIN-BLOG-API)                           |
+| 1  | Blog API           | Node.js, Express, PostgreSQL | REST APIs, routing, controllers, database design | [Live](odin-blog-api-liart.vercel.app) | [Code](https://github.com/Avishkar1234/ODIN-BLOG-API)                           |
 | 2  | File Uploader      | Node.js, Prisma, Express     | File handling, middleware, database integration  | [Live](https://odin-file-uploader-one.vercel.app) | [Code](https://github.com/Avishkar1234/ODIN-FILE-UPLOADER)                 |
 | 3  | Members Only       | Node.js, Express, Auth       | Authentication, sessions, access control         | [Live](https://odin-members-only-gray.vercel.app/) | [Code](https://github.com/Avishkar1234/ODIN-MEMBERS-ONLY)                   |
 | 4  | Inventory App      | Node.js, Express, PostgreSQL | CRUD operations, relational DB design            | [Live](https://odin-inventory-application-ten.vercel.app/) | [Code](https://github.com/Avishkar1234/ODIN-INVENTORY-APPLICATION) |
